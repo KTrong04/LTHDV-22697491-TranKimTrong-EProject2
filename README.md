@@ -1,4 +1,4 @@
-````markdown
+
 # 🧩 ĐỒ ÁN MÔN HỌC – HỆ THỐNG MICROSERVICES TRIỂN KHAI VỚI DOCKER & GITHUB ACTIONS
 
 ## 🧭 1. Giới thiệu dự án
@@ -35,7 +35,7 @@ Hệ thống gồm **4 dịch vụ chính** và các thành phần hỗ trợ:
 
 ## ⚙️ 3. Cấu trúc thư mục
 
-```bash
+
 EProject-Phase-1/
 │
 ├── .github/workflows/
