@@ -35,7 +35,7 @@ Hệ thống gồm **4 dịch vụ chính** và các thành phần hỗ trợ:
 
 ## ⚙️ 3. Cấu trúc thư mục
 
-
+````markdown
 EProject-Phase-1/
 │
 ├── .github/workflows/
